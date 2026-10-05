@@ -1,0 +1,21 @@
+# ITEMIDX values represent the following:
+#   block:-1 space: 0, counter: 1, agent: 2, tomato: 3, lettuce: 4,
+#   plate: 5, knife: 6, delivery: 7, onion: 8, pan: 9,
+#   steak: 10, sink: 11, trash_can: 12, fish: 13, ricecooker: 14,
+#   rice: 15, cheese: 16, dough: 17, oven: 18,
+#   sushi: 19, pizza: 20, roastfish: 21
+name: V2_task_32_steak_fish
+dimensions: [6, 5]
+map:
+  - [1, 10, 16, 12, 13, 1]
+  - [3, 0, 0, 0, 0, 8]
+  - [4, 0, 0, 7, 0, 1]
+  - [6, 0, 0, 0, 0, 17]
+  - [1, 9, 5, 15, 11, 1]
+max_n_agent: 2
+dynamic_map: False
+map_switch_step: 0
+agent_initial_coordinates: [[1, 1], [4, 3]]
+min_ing: 1
+max_ing: 4
+task_pool: [[10, 13]]

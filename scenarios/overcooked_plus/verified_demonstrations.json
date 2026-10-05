@@ -1,0 +1,158 @@
+[
+  {
+    "task": "V2_task_01_tomato",
+    "steps": 17,
+    "success": true,
+    "return": 1069.0,
+    "pre_delivery": [
+      "ChoppedTomato"
+    ],
+    "actions": [
+      1,
+      2,
+      1,
+      2,
+      2,
+      0,
+      0,
+      3,
+      3,
+      3,
+      1,
+      1,
+      2,
+      2,
+      2,
+      0,
+      3
+    ]
+  },
+  {
+    "task": "V2_task_02_lettuce",
+    "steps": 11,
+    "success": true,
+    "return": 1075.0,
+    "pre_delivery": [
+      "ChoppedLettuce"
+    ],
+    "actions": [
+      1,
+      2,
+      3,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "task": "V2_task_03_onion",
+    "steps": 17,
+    "success": true,
+    "return": 1069.0,
+    "pre_delivery": [
+      "ChoppedOnion"
+    ],
+    "actions": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      3,
+      3,
+      3,
+      3,
+      1,
+      1,
+      1,
+      3,
+      3,
+      3,
+      1,
+      2
+    ]
+  },
+  {
+    "task": "V2_task_04_steak",
+    "steps": 21,
+    "success": true,
+    "return": 1175.0,
+    "pre_delivery": [
+      "welldoneSteak"
+    ],
+    "actions": [
+      3,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      3,
+      3,
+      3,
+      2,
+      2,
+      1,
+      2,
+      3,
+      0,
+      0,
+      3,
+      1,
+      2
+    ]
+  },
+  {
+    "task": "V2_task_16_fish",
+    "steps": 11,
+    "success": true,
+    "return": 1075.0,
+    "pre_delivery": [
+      "choppedFish"
+    ],
+    "actions": [
+      0,
+      0,
+      3,
+      2,
+      2,
+      2,
+      2,
+      3,
+      2,
+      0,
+      1
+    ]
+  },
+  {
+    "task": "V2_task_17_rice",
+    "steps": 13,
+    "success": true,
+    "return": 1143.0,
+    "pre_delivery": [
+      "cookedRice"
+    ],
+    "actions": [
+      3,
+      0,
+      3,
+      0,
+      0,
+      1,
+      0,
+      3,
+      2,
+      2,
+      3,
+      0,
+      1
+    ]
+  }
+]
